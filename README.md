@@ -2,4 +2,4 @@
 
 ## 김지나
 ## 주철민
-## HONG DANIEL DHONGHYUN
+## HONG DANIEL DHONGHYUN 홍동현
